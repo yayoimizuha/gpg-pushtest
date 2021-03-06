@@ -1,2 +1,2 @@
 # gpg-pushtest
-rev2
+rev3
